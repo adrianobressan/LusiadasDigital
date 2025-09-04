@@ -1,0 +1,66 @@
+/* Estilos gerais do corpo da página */
+body {
+    background-color: #210b8f; /* Fundo azul escuro */
+}
+
+/* Estilos do cabeçalho da página */
+header {
+    text-align: center; /* Centraliza todo o conteúdo do cabeçalho */
+}
+
+/* Estilos para o título e subtítulo */
+h1, header p {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white; /* Fonte branca */
+    background-color: black; /* Fundo preto */
+    display: inline-block; /* Faz o fundo preto envolver apenas o texto */
+    padding: 5px 10px; /* Adiciona um espaço interno */
+    
+}
+
+h1 {
+    font-size: 24px;
+}
+
+header p {
+    font-size: 16px;
+}
+
+/* Estilos das estrofes */
+.estrofe {
+    background-color: #7db5cf; /* Tom de azul claro para as estrofes */
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Você pode adicionar mais tons de azul para alternar as estrofes */
+#estrofe-9 {
+    background-color: #618ba0; 
+}
+
+#estrofe-11 {
+    background-color: #517386;
+}
+
+/* Continuar alternando as cores de fundo para as estrofes restantes */
+#estrofe-13 {
+    background-color: #8ebbd2;
+}
+
+#estrofe-15 {
+    background-color: #62abd5;
+}
+
+/* Estilos dos versos */
+.verso {
+    display: block; /* Garante que cada verso ocupe sua própria linha */
+}
+
+.verso::before {
+    content: attr(data-n) ". ";
+    font-weight: bold;
+    margin-right: 5px;
+    color: #555;
+}

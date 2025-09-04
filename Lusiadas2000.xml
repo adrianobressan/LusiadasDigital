@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://www.tei-c.org/Vault/DTD/tei.dtd">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Os Lusíadas</title>
+            <author>Luís de Camões</author>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Teste Bressan Lusiadas 2000</publisher>
+            <date>2000</date>
+        </publicationStmt>
+    </fileDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div type="canto" n="10">
+            <lg n="8">
+                <l n="1">O Gama, que também considerava</l>
+                <l n="2">O tempo que pera a partida o chama,</l>
+                <l n="3">E que despacho já não esperava</l>
+                <l n="4">Milhor do Rei, que os Maumetanos ama,</l>
+                <l n="5">Aos feitores que em terra estão, mandava</l>
+                <l n="6">Que se tornem às naus; e, por que a fama</l>
+                <l n="7">Desta súbita vinda os não impida,</l>
+                <l n="8">Lhe manda que a fizessem escondida.</l>
+            </lg>
+            <lg n="9">
+                <l n="9">Porém não tardou muito que, voando,</l>
+                <l n="10">Um rumor não soasse, com verdade:</l>
+                <l n="11">Que foram presos os feitores, quando</l>
+                <l n="12">Foram sentidos vir-se da cidade.</l>
+                <l n="13">Esta fama as orelhas penetrando</l>
+                <l n="14">Do sábio Capitão, com brevidade</l>
+                <l n="15">Faz represária nuns que às naus vieram</l>
+                <l n="16">A vender pedraria que trouxeram.</l>
+            </lg>
+            <lg n="10">
+                <l n="17">Eram estes antigos mercadores</l>
+                <l n="18">Ricos em Calecu e conhecidos;</l>
+                <l n="19">Da falta deles, logo entre os milhores</l>
+                <l n="20">Sentido foi que estão no mar retidos.</l>
+                <l n="21">Mas já nas naus os bons trabalhadores</l>
+                <l n="22">Volvem o cabrestante e, repartidos</l>
+                <l n="23">Pelo trabalho, uns puxam pela amarra,</l>
+                <l n="24">Outros quebram co peito duro a barra,</l>
+            </lg>
+            <lg n="11">
+                <l n="25">Outros pendem da verga e já desatam</l>
+                <l n="26">A vela, que com grita se soltava,</l>
+                <l n="27">Quando, com maior grita, ao Rei relatam</l>
+                <l n="28">A pressa com que a armada se levava.</l>
+                <l n="29">As mulheres e filhos, que se matam,</l>
+                <l n="30">Daqueles que vão presos, onde estava</l>
+                <l n="31">O Samorim se aqueixam que perdidos</l>
+                <l n="32">Uns têm os pais, as outras os maridos.</l>
+            </lg>
+            <lg n="12">
+                <l n="33">Manda logo os feitores Lusitanos</l>
+                <l n="34">Com toda sua fazenda, livremente,</l>
+                <l n="35">Apesar dos imigos Maumetanos,</l>
+                <l n="36">Por que lhe torne a sua presa gente.</l>
+                <l n="37">Desculpas manda o Rei de seus enganos;</l>
+                <l n="38">Recebe o Capitão de melhormente</l>
+                <l n="39">Os presos que as desculpas e, tornando</l>
+                <l n="40">Alguns negros, se parte, as velas dando.</l>
+            </lg>
+            <lg n="13">
+                <l n="41">Parte-se costa abaxo, porque entende</l>
+                <l n="42">Que em vão co Rei gentio trabalhava</l>
+                <l n="43">Em querer dele paz, a qual pretende</l>
+                <l n="44">Por firmar o comércio que tratava;</l>
+                <l n="45">Mas como aquela terra, que se estende</l>
+                <l n="46">Pela Aurora, sabida já deixava,</l>
+                <l n="47">Com estas novas torna à pátria cara,</l>
+                <l n="48">Certos sinais levando do que achara.</l>
+            </lg>
+            <lg n="14">
+                <l n="49">Leva alguns Malabares, que tomou</l>
+                <l n="50">Per força, dos que o Samorim mandara</l>
+                <l n="51">Quando os presos feitores lhe tornou;</l>
+                <l n="52">Leva pimenta ardente, que comprara;</l>
+                <l n="53">A seca flor de Banda não ficou;</l>
+                <l n="54">A noz e o negro cravo, que faz clara</l>
+                <l n="55">A nova ilha Maluco, co a canela</l>
+                <l n="56">Com que Ceilão é rica, ilustre e bela.</l>
+            </lg>
+            <lg n="15">
+                <l n="57">Isto tudo lhe houvera a diligência</l>
+                <l n="58">De Monçaide fiel, que também leva,</l>
+                <l n="59">Que, inspirado de Angélica influência,</l>
+                <l n="60">Quer no livro de Cristo que se escreva.</l>
+                <l n="61">Oh, ditoso Africano, que a demência</l>
+                <l n="62">Divina assi tirou de escura treva,</l>
+                <l n="63">E tão longe da pátria achou maneira</l>
+                <l n="64">Pera subir à pátria verdadeira!</l>
+            </lg>
+        </div>
+    </body>
+</text>
+
+
+
+    
